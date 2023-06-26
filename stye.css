@@ -15,6 +15,7 @@ html, body {
     height: 100vh;
     align-items: center;
     justify-content: center;
+    font-size: 24px;
     background: #cfcece;
     border-bottom: 1px solid #9d9797;
 }
